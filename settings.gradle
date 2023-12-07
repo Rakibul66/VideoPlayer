@@ -10,7 +10,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
     }
 }
-rootProject.name = "VideoPlayer"
+rootProject.name = "Video Player"
 include ':app'
